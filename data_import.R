@@ -217,7 +217,7 @@ rio::export(rpd_data_input, "other_output/rpd/rpd_data_input.csv") #Export data 
 # ---------------------------------------------------------
 
 # The radiocarbon dataset used for this analysis has been 
-# uploaded to http://dx.doi.org/10.17864/1947.340. To replicate the analysis, import data
+# uploaded to http://dx.doi.org/10.17864/1947.000340. To replicate the analysis, import data
 # from Iberia database and save csv in datafile to file
 # data/
 radiocarbon_data <- rio::import("other_output/pop/radiocarbon_data.csv")
