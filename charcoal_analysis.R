@@ -211,7 +211,7 @@ for (j in records) { # Loop over unique records
     
     # Define variables
     depth <- sitedata$sample_depth
-    age <- sitedata$INTCAL2020_mean
+    age <- sitedata$INTCAL2020_median
     quant <- sitedata$quantity
     type <- sitedata$TYPE 
     
