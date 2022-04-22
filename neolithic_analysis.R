@@ -1,4 +1,4 @@
-#Sweeney, Harrison and Vander Linden 2021. 
+#Sweeney, Harrison and Vander Linden 2022. 
 #Assessing anthropogenic influence on fire history during the Holocene in the Iberian Peninsula
 # ---------------------------------------------------------
 
